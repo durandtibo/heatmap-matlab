@@ -1,2 +1,2 @@
 # heatmap-matlab
-MATLAB code to generate heatmap
+MATLAB code to generate heatmap.
